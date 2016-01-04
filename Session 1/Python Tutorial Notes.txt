@@ -1,0 +1,12 @@
+Python Notes
+
+1. Variables
+2. Number & String
+3. List
+4. Dictionary
+5. If Else
+6. For / While
+7. Functions
+8. Hello, World!
+9. Prime numbers
+10. Battleships / Turtle
