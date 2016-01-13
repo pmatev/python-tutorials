@@ -1,3 +1,7 @@
 1. List comprehensions
 2. Generators
-3. File IO / CSV data
+3. Decorators
+4. Lambda functions
+5. Functools
+6. Recursion
+7. File IO / CSV data

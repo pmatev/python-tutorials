@@ -1,3 +1,4 @@
-1. Design Patterns
-2. Writing modules
-3. Advanced Python Internals
+1. Unit testing
+2. Git
+3. Numpy / Pandas
+4. Basic Networking & Remote APIs

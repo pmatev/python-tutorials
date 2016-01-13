@@ -1,2 +1,4 @@
-1. Tooling / Dev setup
-2. Unit testing
+Exceptions
+More networking (client / server setup, sockets, DBs)
+Sending Email
+Scheduled / Cron jobs
