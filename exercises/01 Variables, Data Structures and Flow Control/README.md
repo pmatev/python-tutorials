@@ -7,11 +7,15 @@
 
 4. Write a simple program that takes asks the user to enter their name, then prints "Hello, `name`!"
 
-5. Build a dictionary with all the numbers up to 10 like so {'one': 1, 'two': 2, 'three': 3} etc.,
+5. Build a dictionary with all the numbers up to 10 like so 
+
+```
+{'one': 1, 'two': 2, 'three': 3} etc.,
+```
 
 6. Use the dictionary from step 5 to write a function like so:
-
-	parse("ten / two == five") # returns True
-
+```
+parse("ten / two == five") # returns True
+```
 
 
