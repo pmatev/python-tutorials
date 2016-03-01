@@ -1,0 +1,2201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Exe",
+				"ExampleException"
+			],
+			[
+				"caoch",
+				"coachProfile"
+			],
+			[
+				"CoachProf",
+				"CoachProfileActionCreator"
+			],
+			[
+				"send_par",
+				"send_partner_invite_mail	function"
+			],
+			[
+				"create",
+				"create_user	function"
+			],
+			[
+				"te",
+				"test	module"
+			],
+			[
+				"get_user",
+				"get_user_model	function"
+			],
+			[
+				"create_cli",
+				"create_client_from_user	function"
+			],
+			[
+				"create_",
+				"create_temp_user	function"
+			],
+			[
+				"send_re",
+				"send_partner_invite_mail"
+			],
+			[
+				"client",
+				"clientadmin	module"
+			],
+			[
+				"Part",
+				"PartnerRegistrationStore"
+			],
+			[
+				"Partner",
+				"PartnerRegistrationStore"
+			],
+			[
+				"goto",
+				"gotoSignIn"
+			],
+			[
+				"switch",
+				"switchHandler"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"SignInMo",
+				"SignInModalStore"
+			],
+			[
+				"prop",
+				"propTypes"
+			],
+			[
+				"PassSeri",
+				"PassServiceFullDetailSerializer	class"
+			],
+			[
+				"crea",
+				"createClass"
+			],
+			[
+				"Passe",
+				"PassesSection"
+			],
+			[
+				"Ratin",
+				"RatingSection"
+			],
+			[
+				"obj",
+				"object	React.PropTypes.object"
+			],
+			[
+				"rever",
+				"reverse	function"
+			],
+			[
+				"rev",
+				"reverse"
+			],
+			[
+				"h",
+				"Http404	class"
+			],
+			[
+				"H",
+				"http	module"
+			],
+			[
+				"co",
+				"core	module"
+			],
+			[
+				"slug",
+				"slugify	function"
+			],
+			[
+				"ACt",
+				"ActivityType	class"
+			],
+			[
+				"location",
+				"location_params	statement"
+			],
+			[
+				"loca",
+				"location_params	statement"
+			],
+			[
+				"nex",
+				"nextState"
+			],
+			[
+				"Acti",
+				"ActivityType	class"
+			],
+			[
+				"ac",
+				"ActivityType	class"
+			],
+			[
+				"templ",
+				"templatetags	module"
+			],
+			[
+				"djan",
+				"django_extensions	module"
+			],
+			[
+				"d",
+				"db	module"
+			],
+			[
+				"context",
+				"contextTypes"
+			],
+			[
+				"getS",
+				"getSearchPrefix"
+			],
+			[
+				"redi",
+				"redirect_view	function"
+			],
+			[
+				"Activi",
+				"ActivityItem"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"Quickre",
+				"QuickRedeemPass"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"send_user",
+				"send_user_order_email	function"
+			],
+			[
+				"def",
+				"defaultfilters	module"
+			],
+			[
+				"_get",
+				"_get_search_pages	function"
+			],
+			[
+				"Collec",
+				"CollectionSitemap	class"
+			],
+			[
+				"Fea",
+				"FeaturedGyms"
+			],
+			[
+				"Pass",
+				"Pass	class"
+			],
+			[
+				"vneue",
+				"venueDetails"
+			],
+			[
+				"venue",
+				"venueDetails"
+			],
+			[
+				"Retr",
+				"RetrieveUpdateAPIView	class"
+			],
+			[
+				"User",
+				"UserItem"
+			],
+			[
+				"Timings",
+				"TimingsActionCreator"
+			],
+			[
+				"rei",
+				"redirect_url"
+			],
+			[
+				"scroll",
+				"scrollTarget"
+			],
+			[
+				"call",
+				"callToAction"
+			],
+			[
+				"external",
+				"externalLinkHandler"
+			],
+			[
+				"s3",
+				"s3boto	module"
+			],
+			[
+				"Prod",
+				"product"
+			],
+			[
+				"redire",
+				"redirect_url"
+			],
+			[
+				"get_object",
+				"get_object_or_404	function"
+			],
+			[
+				"PAss",
+				"PassesActionCreator"
+			],
+			[
+				"pass",
+				"pass_obj	statement"
+			],
+			[
+				"chck",
+				"check_object_permissions	function"
+			],
+			[
+				"rese",
+				"rest_framework	module"
+			],
+			[
+				"Venue",
+				"VenueStore"
+			],
+			[
+				"WEEK",
+				"WEEKDAY_CHOICES"
+			],
+			[
+				"form",
+				"forms	module"
+			],
+			[
+				"pemris",
+				"permission_classes"
+			],
+			[
+				"service",
+				"services	module"
+			],
+			[
+				"Archived",
+				"ArchivedVenuePassesStore"
+			],
+			[
+				"PassS",
+				"PassServiceDetailSerializer"
+			],
+			[
+				"PassSer",
+				"PassSerializer	class"
+			],
+			[
+				"pass_",
+				"pass_service"
+			],
+			[
+				"valid",
+				"valid_until"
+			],
+			[
+				"time",
+				"timezone	module"
+			],
+			[
+				"get",
+				"get_current_timezone	function"
+			],
+			[
+				"pss",
+				"pass_obj	param"
+			],
+			[
+				"mock",
+				"mock_service	param"
+			],
+			[
+				"permi",
+				"permissions	module"
+			],
+			[
+				"creat",
+				"createStoreMixin"
+			],
+			[
+				"redir",
+				"redirect_url	statement"
+			],
+			[
+				"red",
+				"redirect_url	statement"
+			],
+			[
+				"base",
+				"BasePortalPage	class"
+			],
+			[
+				"url",
+				"urlresolvers	module"
+			],
+			[
+				"Ored",
+				"OrderItemInline	class"
+			],
+			[
+				"Order",
+				"Order	class"
+			],
+			[
+				"user",
+				"user_setting	statement"
+			],
+			[
+				"send_",
+				"send_client_order_email"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"Srtip",
+				"StripeOAuthResponse	class"
+			],
+			[
+				"strip",
+				"stripe_oauth_reponse"
+			],
+			[
+				"Model",
+				"ModelSerializer	class"
+			],
+			[
+				"json",
+				"jsonify_timedelta	function"
+			],
+			[
+				"mak",
+				"make_timedelta	function"
+			],
+			[
+				"valida",
+				"validate_duration	function"
+			],
+			[
+				"parse",
+				"parse_duration	function"
+			],
+			[
+				"servi",
+				"service	statement"
+			],
+			[
+				"PASS",
+				"PassServicePOSTSerializer	class"
+			],
+			[
+				"seri",
+				"serializers	module"
+			],
+			[
+				"PassService",
+				"PassServiceDetailSerializer	class"
+			],
+			[
+				"fom",
+				"formData"
+			],
+			[
+				"rasi",
+				"raise_exception	param"
+			],
+			[
+				"T",
+				"TimeField	class"
+			],
+			[
+				"Seri",
+				"Serializer	class"
+			],
+			[
+				"res",
+				"rest_framework	module"
+			],
+			[
+				"selected",
+				"selectedVenueOptions"
+			],
+			[
+				"selec",
+				"selectedVenueOptions"
+			],
+			[
+				"dur",
+				"duration_type"
+			],
+			[
+				"pass_service",
+				"pass_service2	statement"
+			],
+			[
+				"Is",
+				"IsClientUser	class"
+			],
+			[
+				"seriv",
+				"service_pk"
+			],
+			[
+				"compone",
+				"componentWillReceiveProps	Life Cycle Method"
+			],
+			[
+				"other",
+				"addOtherHandler"
+			],
+			[
+				"wes",
+				"website_link	statement"
+			],
+			[
+				"webs",
+				"website_link	statement"
+			],
+			[
+				"website",
+				"Website"
+			],
+			[
+				"Url",
+				"URLField	class"
+			],
+			[
+				"PRICE",
+				"PriceManagerActionCreator"
+			],
+			[
+				"PriceMana",
+				"PriceManagerActionCreator"
+			],
+			[
+				"compoen",
+				"componentWillReceiveProps	Life Cycle Method"
+			],
+			[
+				"componen",
+				"componentDidMount	Life Cycle Method"
+			],
+			[
+				"reply",
+				"replyData"
+			],
+			[
+				"componentWill",
+				"componentWillReceiveProps	Life Cycle Method"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/clang++11.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "space",
+		"selected_items":
+		[
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"goto",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"error",
+				"Anaconda: Show error list"
+			],
+			[
+				"clsoe",
+				"File: Close All"
+			],
+			[
+				"goot",
+				"Git: Toggle Annotations"
+			],
+			[
+				"sapce",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"nex",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"",
+				"Convert Case: Swap Case"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"javac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"got",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"lose",
+				"File: Close All"
+			],
+			[
+				"autofor",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"enable debu",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"enble",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"neable",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable ",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"current",
+				"Git: Log Current File"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"gto",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"docs",
+				"Anaconda: Display object docs"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"clse",
+				"File: Close All"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"dosc",
+				"Git: Document Selection"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"reein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"gotio",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"odcs",
+				"Anaconda: Display object docs"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"do",
+				"Anaconda: Display object docs"
+			],
+			[
+				"doc s",
+				"Anaconda: Display object docs"
+			],
+			[
+				"anacond",
+				"Anaconda: Next lint error"
+			],
+			[
+				"aut",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"lowerca",
+				"Convert Case: Lower Case"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"sapc",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"autoform",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"handl",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ogoto",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"DOCS",
+				"Anaconda: Display object docs"
+			],
+			[
+				"tabns",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"lint sett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"jest",
+				"Snippet: jest: execute all nextTicked micro-tasks"
+			],
+			[
+				"jes",
+				"Snippet: jest: supply the mock"
+			],
+			[
+				"must",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"musta",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javsac",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"javca",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fix",
+				"FixMyJS"
+			],
+			[
+				"d",
+				"Anaconda: Display object docs"
+			],
+			[
+				"autofo",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"cloe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pakc",
+				"Package Control: List Packages"
+			],
+			[
+				"doc",
+				"Anaconda: Display object docs"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"enal",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"og",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"conf",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"syntax sh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"env",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"sh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"clso",
+				"File: Close All"
+			],
+			[
+				"togg",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"eslint",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"disba",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"disableli",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"LINT",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Validate"
+			],
+			[
+				"pyh",
+				"Set Syntax: Python"
+			],
+			[
+				"close ",
+				"File: Close All"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"au",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"cloa",
+				"File: Close All"
+			],
+			[
+				"close al",
+				"File: Close All"
+			],
+			[
+				"pep",
+				"Anaconda: Autoformat PEP8 Errors"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 182.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/peter/github/python-tutorials",
+		"/Users/peter/github/python-tutorials/Session 4"
+	],
+	"file_history":
+	[
+		"/Users/peter/github/python-tutorials/Session 4/exceptions2.py",
+		"/Users/peter/github/python-tutorials/Session 4/iris.csv",
+		"/Users/peter/github/python-tutorials/Session 4/exceptions.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/actions/VenueActionCreator.js",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/urls.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/actions/CoachProfileActionCreator.js",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/stores/CoachProfileStore.js",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/Dashboard.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/scss/clientadmin/components/edit_venue/_common.scss",
+		"/Users/peter/Sites/PROJ-Membi/client/scss/clientadmin/components/_edit_venue.scss",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/CoachPage.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/AppHeader.jsx",
+		"/Users/peter/Sites/PROJ-Membi/class CoachProfile():",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/Navbar.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/stores/ImageManagerStore.js",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/edit_venue/EditVenuePhotos.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/edit_venue/ImageManagerModal.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/edit_coach/EditCoachLinks.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/header/User.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/app.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/edit_venue/EditVenueComplete.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/edit_coach/EditCoachPublish.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/passes/PassesPage.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/edit_coach/EditCoachPhotos.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/edit_coach/EditCoachLocations.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/edit_coach/EditCoachBasics.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/AppHeader.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/edit_venue/EditVenueLinks.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/actions/ImageManagerActionCreator.js",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/edit_venue/EditVenueBasePage.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/routes.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/edit_coach/EditCoachProfileBasePage.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/edit_venue/EditVenuePreview.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/stores/VenueStore.js",
+		"/Users/peter/Sites/PROJ-Membi/src/web/serializers.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/lib/components/FileUploadButton.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/detail/PhotoSection.jsx",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/views/api/image.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/HomeBody.jsx",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/serializers.py",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/admin.py",
+		"/Users/peter/Sites/PROJ-Membi/src/accounts/admin.py",
+		"/Users/peter/Sites/PROJ-Membi/src/web/templates/mail/partner_invite.html",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/CompleteRegistration.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/scss/lib/_common.scss",
+		"/Users/peter/Sites/PROJ-Membi/client/scss/clientadmin/home.scss",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/views/page_handlers.py",
+		"/Users/peter/Sites/PROJ-Membi/client/scss/clientadmin/_common.scss",
+		"/Users/peter/Sites/PROJ-Membi/src/web/services/user.py",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/views/api/registration.py",
+		"/Users/peter/Sites/PROJ-Membi/src/sportmembi/settings/prod.py",
+		"/Users/peter/Sites/PROJ-Membi/src/sportmembi/settings/defaults.py",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/models.py",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/tests/views/api/test_registration_submission.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/LandingPage.jsx",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/tests/services/test_registration.py",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/services/registration.py",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/services/email.py",
+		"/Users/peter/Sites/PROJ-Membi/src/accounts/services/email.py",
+		"/Users/peter/Sites/PROJ-Membi/src/accounts/views.py",
+		"/Users/peter/Sites/PROJ-Membi/src/sportmembi/settings/dev.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/LandingPage.jsx",
+		"/Users/peter/virtual_envs/PROJ-Membi/lib/python3.4/site-packages/rest_framework/authtoken/models.py",
+		"/Users/peter/Sites/PROJ-Membi/client/scss/clientadmin/landing.scss",
+		"/Users/peter/Sites/PROJ-Membi/src/accounts/urls.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/stores/PartnerRegistrationStore.js",
+		"/Users/peter/Sites/PROJ-Membi/src/web/admin.py",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/services/claim.py",
+		"/Users/peter/virtual_envs/PROJ-Membi/lib/python3.4/site-packages/django/core/mail/__init__.py",
+		"/Users/peter/Sites/PROJ-Membi/src/accounts/tests/test_auth.py",
+		"/Users/peter/Sites/PROJ-Membi/src/accounts/models.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/App.jsx",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/templates/landing.html",
+		"/Users/peter/Sites/PROJ-Membi/src/web/models/user.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/components/landing/SignUpModal.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/actions/PartnerRegistrationActionCreator.js",
+		"/Users/peter/Sites/PROJ-Membi/client/scss/web/_search_page.scss",
+		"/Users/peter/Sites/PROJ-Membi/client/scss/lib/_buttons.scss",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/SearchPage.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/entryLanding.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/server.jsx",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/tests/views/api/test_passes.py",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/views/api/passes.py",
+		"/Users/peter/Sites/PROJ-Membi/src/booking/serializers.py",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/views/api/__init__.py",
+		"/Users/peter/virtual_envs/PROJ-Membi/lib/python3.4/site-packages/rest_framework/generics.py",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/migrations/0007_registrationsubmission.py",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/views/api/preferences.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/clientadmin/stores/SignUpModalStore.js",
+		"/Users/peter/Sites/PROJ-Membi/src/web/tests/views/api/test_user.py",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/tests/views/api/test_user.py",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/views/login.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/browser.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/lib/ga.js",
+		"/Users/peter/Sites/PROJ-Membi/client/scss/lib/_colors.scss",
+		"/Users/peter/Sites/PROJ-Membi/src/web/tests/services/test_user.py",
+		"/Users/peter/Sites/PROJ-Membi/src/web/migrations/0018_DATA_activity_types_if_not_existing.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/lib/components/Button.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/modals/LoginModal.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/scss/web/_home_page.scss",
+		"/Users/peter/Sites/PROJ-Membi/src/clientadmin/fixtures/client_types.json",
+		"/Users/peter/Sites/PROJ-Membi/src/activity_types.json",
+		"/Users/peter/Sites/PROJ-Membi/src/web/fixtures/groups.json",
+		"/Users/peter/Sites/PROJ-Membi/client/scss/web/_venue_page.scss",
+		"/Users/peter/Sites/PROJ-Membi/client/scss/web/_coach_page.scss",
+		"/Users/peter/Sites/PROJ-Membi/src/booking/views/api/passes.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/checkout/CheckoutHeader.jsx",
+		"/Users/peter/Sites/PROJ-Membi/src/web/views/api/pass_service.py",
+		"/Users/peter/Sites/PROJ-Membi/src/booking/views/api/service.py",
+		"/Users/peter/Sites/PROJ-Membi/src/booking/urls.py",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/VenuePage.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/search/SearchMap.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/modals/SelectedPassModal.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/detail/PassesSection.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/stores/CoachStore.js",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/modals/AddReviewModal.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/modals/AddCoachReviewModal.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/detail/RatingSection.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/components/detail/ReviewsSection.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/lib/components/Calendar.jsx",
+		"/Users/peter/Sites/PROJ-Membi/client/js/web/stores/VenueStore.js",
+		"/Users/peter/Sites/PROJ-Membi/client/scss/web/main.scss",
+		"/Users/peter/Sites/PROJ-Membi/src/web/urls.py",
+		"/Users/peter/Sites/PROJ-Membi/src/web/views/page_handlers.py",
+		"/Users/peter/Sites/PROJ-Membi/src/web/tests/views/api/test_venue_search.py",
+		"/Users/peter/Sites/PROJ-Membi/src/sportmembi/views/redirect.py",
+		"/Users/peter/Sites/PROJ-Membi/src/web/migrations/0017_activitytype_slug.py",
+		"/Users/peter/Sites/PROJ-Membi/src/sportmembi/urls.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"*.js*",
+			"*.py",
+			"**/admin*",
+			"*.py",
+			"*.js*",
+			"*.py",
+			"*.js*",
+			"*.py",
+			"*.js*",
+			"*.py",
+			"*.js*",
+			"*.js",
+			"*",
+			"*.scss",
+			"",
+			"*",
+			"*.js*",
+			"clientadmin/*.js*",
+			"*.jsx",
+			"*.scss",
+			"*.py",
+			"",
+			"*.js*",
+			"*.scss",
+			"*.py",
+			"*.scss",
+			"*.js*",
+			"*",
+			"*.js*",
+			"*.py",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.js*",
+			"*.py",
+			"*.js*",
+			"*.scss",
+			"*.js*",
+			"*.scss",
+			"*.py",
+			"*.js*",
+			"*.py",
+			"*.js*",
+			"*.py",
+			"*.js*",
+			"*.scss",
+			"*.py",
+			"*.js*",
+			"*.scss",
+			"*.js*",
+			"*.py",
+			"*.js*",
+			"*.py",
+			"*.scss",
+			"*.py",
+			"*.pu",
+			"*.js*",
+			"*.js",
+			"*.jsx",
+			"*.jsc",
+			"*.scss",
+			"*.jsx",
+			"*.py",
+			"*.js*",
+			"*.py",
+			"*.js*",
+			"*.py",
+			"*.js*",
+			"*.py",
+			"*",
+			"*.js*",
+			"*.py",
+			"*.js*",
+			"*.py",
+			"*.js*",
+			"*.py",
+			"*.html",
+			"*.js*",
+			"*.py",
+			"*.js*",
+			"*.py",
+			"*.scss",
+			"*.py",
+			"*.js*",
+			"*.scss",
+			"*.py",
+			"*.js*",
+			"*.py",
+			"*.scss",
+			"*.jsx",
+			"*.py",
+			"*.jsx",
+			"*.py",
+			"*.js*",
+			"*.scss",
+			"*.js*",
+			"*.js",
+			"*.jsx",
+			"*.scss",
+			"*.js*",
+			"*.js",
+			"*.jsx",
+			"*.py",
+			"*.js",
+			"*.jsx",
+			"*.scss",
+			"*.jsx",
+			"*.py",
+			"*.jsx",
+			"*.py",
+			"*.jsx",
+			"*.scss",
+			"*.js*",
+			"<project>",
+			"*.js*",
+			"*.html",
+			"*.py",
+			"*.js*",
+			"*.jsx",
+			"*.py",
+			"*.html",
+			"*.py",
+			"new_venue/*.js*",
+			"*.js*",
+			"*.py",
+			"*.scss",
+			"*.js*",
+			"*.jsx"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"profile",
+			"userState",
+			"coachState",
+			"this.state.user.",
+			"Avatar",
+			"this.state.venue",
+			".links",
+			"MiniCoachProfile",
+			"MiniCoach",
+			"venue.",
+			"EditVenueComplete",
+			"venue.",
+			"this.nextHandler",
+			"button",
+			"EditCoachLinks",
+			"EditVenueLinks",
+			"EditCoachProfile",
+			"EditCoachProfileLinks",
+			"EditCoachProfile",
+			"venue",
+			"uploadCoachImages",
+			"uploadImages",
+			"this.state.venue",
+			"venue",
+			"deleteImage",
+			"deleteHandler",
+			"deleteImage",
+			"_onImageDelete",
+			"IMAGE_DELET",
+			"this.state.venue",
+			"EditVenuePhotos",
+			"images",
+			"coach",
+			"CoachProfile",
+			"VenueStore",
+			"EditCoachLocations",
+			"venue",
+			"EditCoachBasics",
+			"this.is",
+			"is",
+			"venue",
+			"is",
+			"isBasicsComplete",
+			"coachState.profile",
+			"coach",
+			"CoachProfileStore",
+			"venue",
+			"isComplete",
+			"EditVenueLink",
+			"venue",
+			"Venue",
+			"venue",
+			"EditProfileBanner",
+			".name",
+			"EditCoachProfileBasics",
+			"VenueStore",
+			"EditVenueBasics",
+			"EditVenueBasePage",
+			"redirectToEditVenueBasics",
+			"redirectToCoachBasics",
+			"redirectToEditVenueBasics",
+			"venue",
+			"VenueStore",
+			"EditVenue",
+			"EditVenueBasePage",
+			"EditVenuePreview",
+			"/preview",
+			"venue/preview",
+			"CoachProfile",
+			"photo",
+			"onEnter",
+			"Venues",
+			"VenueStore",
+			"UserClientSerializer",
+			"HomePage",
+			"Venues",
+			"_activate_or_redirect",
+			".container",
+			"If this wasn't",
+			"password",
+			"redirectToEditVenueBasics",
+			"complete",
+			"_activate_or_redirect",
+			"mandridl",
+			"email",
+			"localhost",
+			"send_registration_admin_mail",
+			"cover",
+			"expired",
+			"get_user_model",
+			"existing",
+			"forward_enquiry_view",
+			"forward_enquiry",
+			"Token.objects.get",
+			"invite",
+			"token",
+			"<span className=\"fa fa-asterisk\" />",
+			"send_partner_invite_mail",
+			"ClaimSubmission",
+			"approve_claim",
+			"form",
+			"outbox",
+			"ready",
+			"userForm",
+			"userFormAttrChange",
+			"SignUpActionCreator",
+			"userFormAttrChange",
+			"SignUpModalStore",
+			"business",
+			"businessForm",
+			"state.type",
+			"type",
+			"getFormData",
+			"register",
+			"enableListViewHandler",
+			"enableGridViewHandler",
+			"type",
+			"viewState",
+			"register",
+			"grid view",
+			"header__container",
+			"h3",
+			"React.PropTypes.function.isRequired",
+			"gotoRegister",
+			"goToRegister",
+			"Link",
+			"loginHandler",
+			"partnerLinkHandler"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<",
+			"ModalActionCreator",
+			"\"",
+			"../lib/Dispatcher",
+			"2col.html",
+			"PROJ-Challenge",
+			"get_maya_sphere",
+			"create_shaders",
+			"get_points_in_region",
+			"scatter_points",
+			"set_marked",
+			"is_marked",
+			"get_vec_3",
+			"delete_all",
+			"draw_grid",
+			"arrange_tiles",
+			"draw_base_tiles",
+			"get_base_tiles",
+			"generate_base_tiles",
+			"get_locator",
+			"get_z",
+			"get_x",
+			"get_y",
+			"get_x",
+			"get_z",
+			"set_z",
+			"set_y",
+			"set_x",
+			"get_maya_edge",
+			"calc_length",
+			"draw_edges",
+			"draw_verts",
+			"set_pos",
+			"get_name",
+			"set_name",
+			"get_binary_code",
+			"mark_corners",
+			"get_edges",
+			"get_verts"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 302.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 110.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 287.0
+	},
+	"pinned_build_system": "",
+	"project": "Python Tutorials.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"coach",
+				"class CoachProfile():"
+			],
+			[
+				"edit_venue/comm",
+				"client/scss/clientadmin/components/edit_venue/_common.scss"
+			],
+			[
+				"user.jsx",
+				"client/js/web/components/header/User.jsx"
+			],
+			[
+				"appheader",
+				"client/js/web/components/AppHeader.jsx"
+			],
+			[
+				"basics",
+				"client/js/clientadmin/components/edit_coach/EditCoachBasics.jsx"
+			],
+			[
+				"locations",
+				"client/js/clientadmin/components/edit_coach/EditCoachLocations.jsx"
+			],
+			[
+				"dashboard",
+				"client/js/clientadmin/components/Dashboard.jsx"
+			],
+			[
+				"complete",
+				"client/js/clientadmin/components/edit_venue/EditVenueComplete.jsx"
+			],
+			[
+				"passespage",
+				"client/js/clientadmin/components/passes/PassesPage.jsx"
+			],
+			[
+				"navbar",
+				"client/js/clientadmin/components/Navbar.jsx"
+			],
+			[
+				"editcoachbas",
+				"client/js/clientadmin/components/edit_coach/EditCoachBasics.jsx"
+			],
+			[
+				"editcoachloca",
+				"client/js/clientadmin/components/edit_coach/EditCoachLocations.jsx"
+			],
+			[
+				"editvenuelinks",
+				"client/js/clientadmin/components/edit_venue/EditVenueLinks.jsx"
+			],
+			[
+				"imagemna",
+				"client/js/clientadmin/actions/ImageManagerActionCreator.js"
+			],
+			[
+				"coachprofile.",
+				"client/js/clientadmin/stores/CoachProfileStore.js"
+			],
+			[
+				"editvneueph",
+				"client/js/clientadmin/components/edit_venue/EditVenuePhotos.jsx"
+			],
+			[
+				"editcoach",
+				"client/js/clientadmin/components/edit_coach/EditCoachBasics.jsx"
+			],
+			[
+				"app.jsx",
+				"client/js/clientadmin/app.jsx"
+			],
+			[
+				"routes",
+				"client/js/web/routes.jsx"
+			],
+			[
+				"coachprofilestore",
+				"client/js/clientadmin/stores/CoachProfileStore.js"
+			],
+			[
+				"coachpage",
+				"client/js/web/components/CoachPage.jsx"
+			],
+			[
+				"common.scs",
+				"client/scss/clientadmin/components/edit_venue/_common.scss"
+			],
+			[
+				"edit_venue",
+				"client/scss/clientadmin/components/_edit_venue.scss"
+			],
+			[
+				"editvenuebas",
+				"client/js/clientadmin/components/edit_venue/EditVenueBasePage.jsx"
+			],
+			[
+				"editvenuepr",
+				"client/js/clientadmin/components/edit_venue/EditVenuePreview.jsx"
+			],
+			[
+				"seirli",
+				"src/web/serializers.py"
+			],
+			[
+				"imagem",
+				"client/js/clientadmin/actions/ImageManagerActionCreator.js"
+			],
+			[
+				"fileup",
+				"client/js/lib/components/FileUploadButton.jsx"
+			],
+			[
+				"venueaction",
+				"client/js/clientadmin/actions/VenueActionCreator.js"
+			],
+			[
+				"phto",
+				"client/js/clientadmin/components/edit_venue/EditVenuePhotos.jsx"
+			],
+			[
+				"phtoso",
+				"client/js/web/components/detail/PhotoSection.jsx"
+			],
+			[
+				"urls",
+				"src/clientadmin/urls.py"
+			],
+			[
+				"venuestore",
+				"client/js/clientadmin/stores/VenueStore.js"
+			],
+			[
+				"homebody",
+				"client/js/clientadmin/components/HomeBody.jsx"
+			],
+			[
+				"serializer",
+				"src/clientadmin/serializers.py"
+			],
+			[
+				"venues.jsx",
+				"client/js/clientadmin/components/Venues.jsx"
+			],
+			[
+				"invite.html",
+				"src/web/templates/mail/partner_invite.html"
+			],
+			[
+				"accounts/admi",
+				"src/accounts/admin.py"
+			],
+			[
+				"admin",
+				"src/clientadmin/admin.py"
+			],
+			[
+				"page_",
+				"src/clientadmin/views/page_handlers.py"
+			],
+			[
+				"home.scs",
+				"client/scss/clientadmin/home.scss"
+			],
+			[
+				"account/ema",
+				"src/accounts/services/email.py"
+			],
+			[
+				"page_handl",
+				"src/clientadmin/views/page_handlers.py"
+			],
+			[
+				"prod",
+				"src/sportmembi/settings/prod.py"
+			],
+			[
+				"dev",
+				"src/sportmembi/settings/dev.py"
+			],
+			[
+				"defaul",
+				"src/sportmembi/settings/defaults.py"
+			],
+			[
+				"email",
+				"src/clientadmin/services/email.py"
+			],
+			[
+				"landingpage",
+				"client/js/web/components/LandingPage.jsx"
+			],
+			[
+				"models",
+				"src/clientadmin/models.py"
+			],
+			[
+				"test_regi",
+				"src/clientadmin/tests/views/api/test_registration_submission.py"
+			],
+			[
+				"admin.",
+				"src/clientadmin/admin.py"
+			],
+			[
+				"accounts/url",
+				"src/accounts/urls.py"
+			],
+			[
+				"landing.ss",
+				"client/scss/clientadmin/landing.scss"
+			],
+			[
+				"registration",
+				"client/js/clientadmin/stores/PartnerRegistrationStore.js"
+			],
+			[
+				"test_regis",
+				"src/clientadmin/tests/views/api/test_registration_submission.py"
+			],
+			[
+				"models.",
+				"src/clientadmin/models.py"
+			],
+			[
+				"landing.scs",
+				"client/scss/clientadmin/landing.scss"
+			],
+			[
+				"regist",
+				"src/clientadmin/views/api/registration.py"
+			],
+			[
+				"registrationstore",
+				"client/js/clientadmin/stores/PartnerRegistrationStore.js"
+			],
+			[
+				"landing.jsx",
+				"client/js/clientadmin/components/LandingPage.jsx"
+			],
+			[
+				"modles.",
+				"src/clientadmin/models.py"
+			],
+			[
+				"passes.p",
+				"src/clientadmin/views/api/passes.py"
+			],
+			[
+				"test_passes",
+				"src/clientadmin/tests/views/api/test_passes.py"
+			],
+			[
+				"registr",
+				"src/clientadmin/views/api/registration.py"
+			],
+			[
+				"regiser",
+				"src/clientadmin/views/api/register_partner.py"
+			],
+			[
+				"partner",
+				"client/js/clientadmin/actions/PartnerRegistrationActionCreator.js"
+			],
+			[
+				"0007",
+				"src/clientadmin/migrations/0007_registrationsubmission.py"
+			],
+			[
+				"user",
+				"src/web/models/user.py"
+			],
+			[
+				"mdoels.",
+				"src/accounts/models.py"
+			],
+			[
+				"user.p",
+				"src/web/models/user.py"
+			],
+			[
+				"partnerregis",
+				"client/js/clientadmin/actions/PartnerRegistrationActionCreator.js"
+			],
+			[
+				"clientadmin/urls",
+				"src/clientadmin/urls.py"
+			],
+			[
+				"accounts/ur",
+				"src/accounts/urls.py"
+			],
+			[
+				"search_page",
+				"client/scss/web/_search_page.scss"
+			],
+			[
+				"butt",
+				"client/scss/lib/_buttons.scss"
+			],
+			[
+				"signupmodal",
+				"client/js/clientadmin/stores/SignUpModalStore.js"
+			],
+			[
+				"test_user",
+				"src/web/tests/views/api/test_user.py"
+			],
+			[
+				"buttons",
+				"client/scss/lib/_buttons.scss"
+			],
+			[
+				"searchpage",
+				"client/js/web/components/SearchPage.jsx"
+			],
+			[
+				"server.jsx",
+				"client/js/clientadmin/server.jsx"
+			],
+			[
+				"landing.html",
+				"src/clientadmin/templates/landing.html"
+			],
+			[
+				"page_handler",
+				"src/clientadmin/views/page_handlers.py"
+			],
+			[
+				"signup",
+				"client/js/clientadmin/components/landing/SignUpModal.jsx"
+			],
+			[
+				"landingp",
+				"client/js/web/components/LandingPage.jsx"
+			],
+			[
+				"brows",
+				"client/js/web/browser.jsx"
+			],
+			[
+				"ga.js",
+				"client/js/lib/ga.js"
+			],
+			[
+				"landingpag",
+				"client/js/web/components/LandingPage.jsx"
+			],
+			[
+				"signupmod",
+				"client/js/clientadmin/components/landing/SignUpModal.jsx"
+			],
+			[
+				"button",
+				"client/js/lib/components/Button.jsx"
+			],
+			[
+				"color",
+				"client/scss/lib/_colors.scss"
+			],
+			[
+				"signupmoda",
+				"client/js/clientadmin/components/landing/SignUpModal.jsx"
+			],
+			[
+				"home_page",
+				"client/scss/web/_home_page.scss"
+			],
+			[
+				"loginmodal",
+				"client/js/web/components/modals/LoginModal.jsx"
+			],
+			[
+				"type",
+				"src/clientadmin/fixtures/client_types.json"
+			],
+			[
+				"group",
+				"src/web/fixtures/groups.json"
+			],
+			[
+				"clientadmin/",
+				"src/clientadmin/models.py"
+			],
+			[
+				"venue_page",
+				"client/scss/web/_venue_page.scss"
+			],
+			[
+				"coach_page",
+				"client/scss/web/_coach_page.scss"
+			],
+			[
+				"caoch",
+				"client/js/web/components/CoachPage.jsx"
+			],
+			[
+				"defa",
+				"src/sportmembi/settings/defaults.py"
+			],
+			[
+				"passessect",
+				"client/js/web/components/detail/PassesSection.jsx"
+			],
+			[
+				"checkoutheader",
+				"client/js/web/components/checkout/CheckoutHeader.jsx"
+			],
+			[
+				"passmodal",
+				"client/js/web/components/modals/SelectedPassModal.jsx"
+			],
+			[
+				"passessec",
+				"client/js/web/components/detail/PassesSection.jsx"
+			],
+			[
+				"addrew",
+				"client/js/web/components/modals/AddReviewModal.jsx"
+			],
+			[
+				"venuepage",
+				"client/js/web/components/VenuePage.jsx"
+			],
+			[
+				"reviews",
+				"client/js/web/components/detail/ReviewsSection.jsx"
+			],
+			[
+				"searchmap",
+				"client/js/web/components/search/SearchMap.jsx"
+			],
+			[
+				"calendar",
+				"client/js/lib/components/Calendar.jsx"
+			],
+			[
+				"coachst",
+				"client/js/web/stores/CoachStore.js"
+			],
+			[
+				"coachp",
+				"client/js/web/components/CoachPage.jsx"
+			],
+			[
+				"addreiv",
+				"client/js/web/components/modals/AddReviewModal.jsx"
+			],
+			[
+				"ratingsec",
+				"client/js/web/components/detail/RatingSection.jsx"
+			],
+			[
+				"mainscs",
+				"client/scss/web/main.scss"
+			],
+			[
+				"venue.scss",
+				"client/scss/web/_venue_page.scss"
+			],
+			[
+				"test_venue_sea",
+				"src/web/tests/views/api/test_venue_search.py"
+			],
+			[
+				"0018",
+				"src/web/migrations/0018_DATA_activitytypes.py"
+			],
+			[
+				"0017",
+				"src/web/migrations/0017_activitytype_slug.py"
+			],
+			[
+				"apphead",
+				"client/js/web/components/AppHeader.jsx"
+			],
+			[
+				"venue",
+				"src/web/models/venue.py"
+			],
+			[
+				"activities",
+				"src/web/models/activities.py"
+			],
+			[
+				"activity.p",
+				"src/web/views/api/activity.py"
+			],
+			[
+				"test_venue_sear",
+				"src/web/tests/views/api/test_venue_search.py"
+			],
+			[
+				"searchstore",
+				"client/js/web/stores/SearchStore.js"
+			],
+			[
+				"search",
+				"src/web/services/search.py"
+			],
+			[
+				"mapsear",
+				"client/js/web/components/search/SearchMap.jsx"
+			],
+			[
+				"rous",
+				"client/js/web/routes.jsx"
+			],
+			[
+				"seriali",
+				"src/booking/serializers.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/github/python-tutorials/Session 2/pong/main.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 101.0,
+		"last_filter": "seachpage",
+		"selected_items":
+		[
+			[
+				"seachpage",
+				"SearchPage"
+			],
+			[
+				"SearchPage",
+				"SearchPage"
+			],
+			[
+				"SearchPa",
+				"SearchPage"
+			],
+			[
+				"Searcg",
+				"SearchPage"
+			],
+			[
+				"VenueSea",
+				"VenueSearchAPI"
+			],
+			[
+				"searchpa",
+				"SearchPage"
+			],
+			[
+				"venue_sear",
+				"venue_search"
+			],
+			[
+				"Account",
+				"AccountUpdateProfile"
+			]
+		],
+		"width": 439.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

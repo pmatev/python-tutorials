@@ -1,4 +1,2 @@
-1. Unit testing
-2. Git
-3. Numpy / Pandas
-4. Basic Networking & Remote APIs
+1. IPython Notebook / Jupyter Notebook
+2. Numpy / Pandas / Matplotlib

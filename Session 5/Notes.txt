@@ -1,4 +1,1 @@
-Exceptions
-More networking (client / server setup, sockets, DBs)
-Sending Email
-Scheduled / Cron jobs
+Numpy & Pandas
