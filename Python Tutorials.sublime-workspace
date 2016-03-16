@@ -519,6 +519,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Session 5/Notes.txt",
+			"settings":
+			{
+				"buffer_size": 15,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
@@ -1090,7 +1098,7 @@
 	"expanded_folders":
 	[
 		"/Users/peter/github/python-tutorials",
-		"/Users/peter/github/python-tutorials/Session 4"
+		"/Users/peter/github/python-tutorials/Session 5"
 	],
 	"file_history":
 	[
@@ -1551,8 +1559,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Session 5/Notes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -2139,7 +2176,7 @@
 		[
 			[
 				"",
-				"~/github/python-tutorials/Session 2/pong/main.sublime-workspace"
+				"~/Sites/PROJ-Membi/Membi.sublime-project"
 			]
 		],
 		"width": 380.0
